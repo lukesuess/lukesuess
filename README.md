@@ -1,4 +1,4 @@
-## Hi there 👋
+## This repository is where I organize and update projects.
 
 <!--
 **lukesuess/lukesuess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
